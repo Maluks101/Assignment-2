@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#DEBFBF"
+    tools:context=".Pg2">
+
+
+    <Button
+        android:id="@+id/btnTrue"
+        android:layout_width="92dp"
+        android:layout_height="48dp"
+        android:layout_marginStart="148dp"
+        android:layout_marginBottom="21dp"
+        android:background="#242222"
+        android:backgroundTint="#1A1919"
+        android:drawableTint="#161515"
+        android:foregroundTint="#000000"
+        android:shadowColor="#000000"
+        android:text="True"
+        android:textAlignment="center"
+        android:textAllCaps="true"
+        android:textColor="#F2F2F2"
+        android:textColorHighlight="#161515"
+        android:textColorHint="#181717"
+        android:textColorLink="#000000"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:typeface="normal"
+        app:iconTint="#000000"
+        app:layout_constraintBottom_toTopOf="@+id/btnFalse"
+        app:layout_constraintStart_toStartOf="parent"
+        app:rippleColor="#121212"
+        app:strokeColor="#000000" />
+
+    <Button
+        android:id="@+id/btnFalse"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="148dp"
+        android:layout_marginBottom="176dp"
+        android:background="#050505"
+        android:backgroundTint="#101010"
+        android:text="False"
+        android:textAllCaps="true"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <Button
+        android:id="@+id/btnNext"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="296dp"
+        android:layout_marginBottom="84dp"
+        android:background="#453333"
+        android:backgroundTint="#101010"
+        android:text="Next"
+        android:textAllCaps="true"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:id="@+id/txtQuestion"
+        android:layout_width="339dp"
+        android:layout_height="233dp"
+        android:layout_marginStart="28dp"
+        android:layout_marginBottom="3dp"
+        android:fontFamily="sans-serif-medium"
+        android:textAllCaps="true"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/txtResults"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:id="@+id/txtResults"
+        android:layout_width="340dp"
+        android:layout_height="77dp"
+        android:layout_marginStart="23dp"
+        android:layout_marginBottom="68dp"
+        android:fontFamily="sans-serif-medium"
+        android:textAllCaps="true"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/btnTrue"
+        app:layout_constraintStart_toStartOf="parent" />
+</androidx.constraintlayout.widget.ConstraintLayout>
