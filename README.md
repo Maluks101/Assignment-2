@@ -15,6 +15,8 @@ Link to GitHub: https://github.com/Maluks101/Assignment-2.git
 ![Screenshot 2025-05-04 182845](https://github.com/user-attachments/assets/c34a98d5-47c4-4bb0-9158-f9fbca17a215)
 ![Screenshot 2025-05-04 182804](https://github.com/user-attachments/assets/28a0d688-c343-4ca9-bdc9-648ebdc39096)
 
+Video link: https://youtu.be/vjx46707IRM
+
 
 
 
