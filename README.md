@@ -10,3 +10,12 @@ GitHub is used to push the code and to also test and run it to make sure it work
 
 Link to GitHub: https://github.com/Maluks101/Assignment-2.git
 
+![Screenshot 2025-05-04 183000](https://github.com/user-attachments/assets/5e020280-c85d-40bb-ad39-c958181d760d)
+![Screenshot 2025-05-04 182914](https://github.com/user-attachments/assets/89b86521-5607-473b-a8d5-c3d2f92cab02)
+![Screenshot 2025-05-04 182845](https://github.com/user-attachments/assets/c34a98d5-47c4-4bb0-9158-f9fbca17a215)
+![Screenshot 2025-05-04 182804](https://github.com/user-attachments/assets/28a0d688-c343-4ca9-bdc9-648ebdc39096)
+
+
+
+
+
