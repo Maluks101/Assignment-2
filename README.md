@@ -8,3 +8,5 @@ The app is a simple to use and clean way to learn Football history, the app is f
 The use of GitHub
 GitHub is used to push the code and to also test and run it to make sure it works correctly
 
+Link to GitHub: https://github.com/Maluks101/Assignment-2.git
+
